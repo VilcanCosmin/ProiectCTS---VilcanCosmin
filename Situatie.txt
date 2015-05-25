@@ -1,0 +1,4 @@
+1	Accidentat
+2	Apt
+3	Imprumutat
+4	Liber
